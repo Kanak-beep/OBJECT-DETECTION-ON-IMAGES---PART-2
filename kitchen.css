@@ -1,0 +1,38 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#Status
+{
+font-size: 18px;
+}
+
+#black{
+float: right;
+border-color: black;
+width: 60px;
+height: 40px;
+background-color: black;
+color: white;
+margin-top: 5px;
+}
+
+#black:hover{
+background-color: white;
+color: black;
+}
+
+canvas{
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}

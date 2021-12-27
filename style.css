@@ -1,0 +1,11 @@
+body{
+    background: url("https://images.unsplash.com/photo-1475274047050-1d0c0975c63e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80");
+    background-size: cover;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+}
+
+.heading{
+    font-family: 'Lobster', cursive;
+}
+
